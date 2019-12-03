@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "babel-loader": "latest",
+    "@babel/core": "latest",
+    "autoprefixer": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "@babel/plugin-proposal-decorators": "latest",
+    "@babel/plugin-proposal-function-sent": "latest",
+    "@babel/plugin-proposal-export-namespace-from": "latest",
+    "@babel/plugin-proposal-numeric-separator": "latest",
+    "@babel/plugin-proposal-throw-expressions": "latest",
+    "@babel/plugin-syntax-dynamic-import": "latest",
+    "@babel/plugin-syntax-import-meta": "latest",
+    "@babel/plugin-proposal-class-properties": "latest",
+    "@babel/plugin-proposal-json-strings": "latest",
+    "css-loader": "latest",
+    "cssnano": "latest",
+    "file-loader": "latest",
+    "memory-fs": "latest",
+    "mini-css-extract-plugin": "latest",
+    "node-sass": "latest",
+    "postcss-loader": "latest",
+    "react": "latest",
+    "react-hot-loader": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "url-loader": "latest",
+    "webpack": "latest",
+    "webpack-hot-middleware": "latest"
+  },
+  "devDependencies": {
+    "fs": "latest",
+    "node-zip": "latest",
+    "pkg": "latest"
+  },
+  "bin": "transpiler.js"
+}
